@@ -40,7 +40,7 @@ charges = zeros([populationSize, 1]);
 initialPerformance = 0.00;
 finalPerformance  = 0.00;
 
-maxIter = 1000;
+maxIter = 150;
 classifierName = "svm";
 paramValue = 'polynomial';
 
